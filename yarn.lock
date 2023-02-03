@@ -942,10 +942,10 @@
   resolved "https://registry.yarnpkg.com/@emotion/hash/-/hash-0.8.0.tgz#bbbff68978fefdbe68ccb533bc8cbe1d1afb5413"
   integrity sha512-kBJtf7PH6aWwZ6fka3zQ0p6SBYzx4fl1LoZXE2RrnYST9Xljm7WfKJrU4g/Xr3Beg72MLrp1AWNUmuYJTL7Cow==
 
-"@fakeveezoo/react@^0.1.7":
-  version "0.1.7"
-  resolved "https://registry.yarnpkg.com/@fakeveezoo/react/-/react-0.1.7.tgz#06ff8c6feb2b814fa1db588a0385c72bbf17ec2c"
-  integrity sha512-xOOV45NLV5fpS6yLXJsbWHFchqe6ywXQKUP+RriDRaANlTPwAK0b32KUwIMytKGBgFLcXqf3Y2ahoiIeVaQU7g==
+"@fakeveezoo/react@^0.1.8":
+  version "0.1.8"
+  resolved "https://registry.yarnpkg.com/@fakeveezoo/react/-/react-0.1.8.tgz#10954db6b421922e5e5dc5203b1a6334a769b191"
+  integrity sha512-Db/cqglwLg1aCILVdczmgEDZSt5CpJxATkxbu4ndTxtlQTyLCCn1KRGGYtZbmZJY/JrELSpHSXv7Y341K5ikjQ==
   dependencies:
     "@material-ui/core" "^4.12.4"
     "@material-ui/icons" "^4.9.1"
